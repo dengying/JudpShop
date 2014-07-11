@@ -1,7 +1,7 @@
 <resources>
 
     <string name="app_name">聚店铺九块九</string>
-	<string name="loading">拼命加载中...</string>
+	<string name="loading">努力加载中...</string>
 	<string name="click_reloading">网络不给力啊！点击重新加载</string>
 	<string name="exit">退出</string>
 	<string name="exit_msg">亲！确定退出聚店铺九块九吗？</string>

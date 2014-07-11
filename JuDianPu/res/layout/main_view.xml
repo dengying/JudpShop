@@ -64,7 +64,7 @@
                 android:layout_height="match_parent"
                 android:saveEnabled="false"
                 android:checked="true"
-                android:drawableTop="@drawable/pinpai"
+                android:drawableTop="@drawable/jkjbaoyou"
                 android:text="@string/baoyou9dian9" />
 
             <RadioButton
